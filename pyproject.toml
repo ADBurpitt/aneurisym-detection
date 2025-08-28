@@ -1,0 +1,20 @@
+[project]
+name = "aneurisym-detection"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.30.1",
+    "kaggle>=1.7.4.5",
+    "matplotlib>=3.10.5",
+    "monai>=1.4.0",
+    "pydicom>=3.0.1",
+    "scikit-image>=0.25.2",
+    "scikit-learn>=1.7.1",
+    "scipy>=1.16.1",
+    "seaborn>=0.13.2",
+    "simpleitk>=2.5.2",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+]
